@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm akanji leonel</h1>
 <h3 align="center">A passionate Software developer from Cameroon</h3>
 
-- 🔭 I’m currently working on **MVC algorithms**
+- 🔭 I’m currently working on **MVC algorithms and Android dev. in <a href="https://flutter.dev/" target="_blank" style="text-decoration: blank">Flutter</a>**
 
 - 🌱 I’m currently learning **ASP.NET for iOS on Android software Dev.**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MVC algorithms**
 
-- 💬 Ask me about **Frontend Development, JS, C/C++, Python,**
+- 💬 Ask me about **Frontend Development, JS, C/C++,**
 
 - 📫 How to reach me **ijnaka.abroad@gmail.com**
 
