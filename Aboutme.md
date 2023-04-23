@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm akanji leonel</h1>
 <h3 align="center">A passionate Software developer from Cameroon</h3>
 
-- 🔭 I’m currently working on **MVC algorithms and Android dev. in <a href="https://flutter.dev/" target="_blank" style="text-decoration: blank">Flutter</a>**
+🔭 As a mechatronics graduate and current masters engineering student in electronics and communication engineering, I am a skilled and experienced freelancer with a focus on programming, embedded systems engineering, mobile application development, and web design.
 
-- 🌱 I’m currently learning **ASP.NET for iOS on Android software Dev.**
+With over 4 years of experience in MATLAB, Python, and C/C++ programming, I have developed a strong proficiency in these programming languages. Additionally, I have over 2 years of experience in embedded systems engineering using microcontrollers such as Raspberry Pi, Arduino, ESP32, and PIC16Fxx. My experience in mobile application development using Flutter and Embedded systems has also enabled me to develop existing apps such as Gokido: https://play.google.com/store/apps/details?id=com.blindararge.blindar
 
-- 👯 I’m looking to collaborate on **MVC algorithms**
+In addition to my technical skills, I am also proficient in web design and am a co-founder and designer of the website https://leokma.co. Overall, I am a highly motivated and skilled freelancer with a strong technical background and a passion for delivering high-quality work.**
 
-- 🤝 I’m looking for help with **MVC algorithms**
 
-- 💬 Ask me about **Frontend Development, JS, C/C++,**
+- 💬 Ask me about **Embedded Systems(Python, C/C++, Matlab) and Flutter/Front-end Web-Dev**
 
 - 📫 How to reach me **ijnaka.abroad@gmail.com**
 
