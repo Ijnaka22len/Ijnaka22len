@@ -1,23 +1,102 @@
-<h1 align="center">Hi 👋, I'm akanji leonel</h1>
-<h3 align="center">A passionate Software developer from Cameroon</h3>
+# Leonel Akanji Akanji
 
-🔭 As a mechatronics graduate and current masters engineering student in electronics and communication engineering, I am a skilled and experienced freelancer with a focus on programming, embedded systems engineering, mobile application development, and web design.
+**Embedded Software Engineer**  
+📍 New York, USA   
+✉️ [ijnaka.abroad@email.com](mailto:ijnaka.abroad@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akanjileonelakanji/)
 
-With over 4 years of experience in MATLAB, Python, and C/C++ programming, I have developed a strong proficiency in these programming languages. Additionally, I have over 2 years of experience in embedded systems engineering using microcontrollers such as Raspberry Pi, Arduino, ESP32, and PIC16Fxx. My experience in mobile application development using Flutter and Embedded systems has also enabled me to develop existing apps such as Gokido: https://play.google.com/store/apps/details?id=com.blindararge.blindar
+---
 
-In addition to my technical skills, I am also proficient in web design and am a co-founder and designer of the website https://leokma.co. Overall, I am a highly motivated and skilled freelancer with a strong technical background and a passion for delivering high-quality work.**
+## About Me
 
+I am an enthusiastic professional specializing in Embedded Systems and Electrical Engineering with over three years of hands-on experience in embedded systems, AI, and product development. I thrive in dynamic environments where I can leverage my expertise to tackle real-world challenges. Currently, I am a Graduate Research Assistant at Clarkson University, where I lead innovative projects in firmware development and mobile applications.
 
-- 💬 Ask me about **Embedded Systems(Python, C/C++, Matlab) and Flutter/Front-end Web-Dev**
+---
 
-- 📫 How to reach me **ijnaka.abroad@gmail.com**
+## Experience
 
-- ⚡ Fun fact **I think I am funny (-_-)**
+### Graduate Research Assistant
+**Clarkson University**  
+*Aug 2023 – present*  
+Potsdam, New York, USA
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akanjileonelakanji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akanji-leonel-693b351a3" height="30" width="40" /></a>
-</p>
+- **AIDrawPen**: Designing a Wireless Gesture-Based Drawing Pen for Kids' Rehabilitation.
+- **Tiny-BLE-Stat**: Developed a low-cost portable universal device for electrochemical sensing with circuit design (Altium, EasyEDA), firmware in C/C++ (SAMD21, EFR32x), and a Flutter-based mobile app for Bluetooth 5.0 data retrieval and configuration.
+- **Smartphone Controlled Infant Fingerprint Scanner**: Led the design, winning second prize in the CITeR Fall 2023 competition.
+- **NFC-Powered Biosensing Bandage**: Designed firmware and mobile application to enhance noise-free vocal signal capture using Silicon Labs EFR32 Wireless Gecko.
+- **Antenna Azimuth Position Control System**: Achieved a 100% score in analysis and design.
+- **FER CNN Model**: Developed a CNN model enhancing Facial Expression Recognition with 97.53% testing accuracy using the FER2013 dataset. [GitHub Repository](https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Embedded Engineer
+**Gokido**  
+*May 2022 – Apr 2023*  
+Kocaeli, Turkey
+
+- Spearheaded the launch of Gokido Smart Cane and Gokido Mobile app.
+- Represented Gokido at prestigious conferences including Takeoff-Istanbul 2022 and Teknofest Samsun 2022.
+- Supervised and mentored interns in C/C++ coding, circuit design, and mobile app development.
+- Developed firmware for Pokido, an interactive game box for visually impaired users, within two days, boosting Gokido's prominence at Teknofest Samsun 2022.
+
+### Software Engineering Intern
+**Yongatek**  
+*Jun 2021 – Oct 2021*  
+Istanbul, Turkey
+
+- Developed and launched the Conveyor app, a Wi-Fi logger app securing rentals at a rate of 100 euros per month.
+
+---
+
+## Education
+
+### Master of Science in Electrical and Computer Engineering
+**Clarkson University**  
+*Aug 2023 – Aug 2024*  
+- Awards: 2nd award for CITeR Fall 2023: Smartphone Controlled Infant Fingerprint Scanner.
+- Coursework: Control Systems, Deep Learning, Applied Machine Learning.
+
+### Master of Science in Electronic and Communication Engineering
+**Kocaeli University**  
+*Feb 2023 – Jun 2023*  
+- Project Lead: Enhancing FPGA Development Workflow Using Integrated Tools (VivGIT).
+- Coursework: Computer Architecture, Advanced Digital Design, System Theory, Scientific Research Methods.
+
+### Bachelor of Science in Mechatronics Engineering
+**Kocaeli University**  
+*Sep 2018 – Jun 2022*  
+- Project Lead: General Purpose 2-Axis Satcom-on-the-Move and Unmanned Car Robot Using Python in Raspberry Pi.
+- Coursework: Binary and Ascii-based data transfer Using C Programming in PIC16Fxx, Automatic Security robot in Arduino.
+
+### Nanodegree AI Product Manager
+**Udacity – Bertelsmann-tech-scholarship**  
+*Nov 2020 – Jun 2021*  
+- Project Lead: Pneumonia prediction in children using Google AutoML.
+- Volunteer: Tutored python and assisted other scholars.
+
+---
+
+## Skills
+
+- **Programming**: C, C++, MATLAB, Python
+- **Embedded Systems**: Raspberry Pi, Esp32, Arduino, PIC, ATSAMD21G18A, EFR32x
+- **Mobile App Development**: Dart, Flutter SDK
+- **CAD**: Inventor, SolidWorks, AutoCAD
+- **Version Control**: git, GitHub, GitLab
+- **Circuit Design**: EasyEDA, Altium Designer
+- **Other**: Linux, Scripting
+
+---
+
+## Projects and Links
+
+- [Enhancing FER2013 Imbalance (GitHub)](https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance)
+- [VivGIT FPGA Development Workflow Integration (GitHub)](https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs)
+- [Tiny-BLE-Stat Project Documentation (Google Drive)](https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view?usp=sharing)
+- [Portfolio (Google Drive)](https://drive.google.com/drive/folders/1s5aQKqBhz028jxh1fF2LAqiUyOv8d3f6?usp=sharing)
+
+---
+
+## Contact Me
+
+Feel free to reach out for any collaboration or job opportunities in Embedded Systems and Electrical Engineering!
+
+---
