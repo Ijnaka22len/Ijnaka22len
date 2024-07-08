@@ -1,8 +1,7 @@
 # Leonel Akanji Akanji
 
 **Embedded Software Engineer**  
-📍 New York, USA   
-✉️ [ijnaka.abroad@email.com](mailto:ijnaka.abroad@email.com)  
+📍 New York, USA    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akanjileonelakanji/)
 
 ---
@@ -20,12 +19,12 @@ I am an enthusiastic professional specializing in Embedded Systems and Electrica
 *Aug 2023 – present*  
 Potsdam, New York, USA
 
-- **AIDrawPen**: Designing a Wireless Gesture-Based Drawing Pen for Kids' Rehabilitation.
-- **Tiny-BLE-Stat**: Developed a low-cost portable universal device for electrochemical sensing with circuit design (Altium, EasyEDA), firmware in C/C++ (SAMD21, EFR32x), and a Flutter-based mobile app for Bluetooth 5.0 data retrieval and configuration.
-- **Smartphone Controlled Infant Fingerprint Scanner**: Led the design, winning second prize in the CITeR Fall 2023 competition.
-- **NFC-Powered Biosensing Bandage**: Designed firmware and mobile application to enhance noise-free vocal signal capture using Silicon Labs EFR32 Wireless Gecko.
-- **Antenna Azimuth Position Control System**: Achieved a 100% score in analysis and design.
-- **FER CNN Model**: Developed a CNN model enhancing Facial Expression Recognition with 97.53% testing accuracy using the FER2013 dataset. [GitHub Repository](https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance)
+- Designing a smart (AI) wireless gesture-based drawing pen ( [AIDrawPen](https://github.com/Ijnaka22len/AIDrawPen) ) for kids' rehabilitation. 
+- Developed a low-cost portable universal device (Tiny-BLE-Stat) for electrochemical sensing with circuit design (Altium, EasyEDA), firmware in C/C++ in (SAMD21, EFR32x), and a Flutter-based mobile app for Bluetooth 5.0 data retrieval and configuration. 
+- Led the design of a Smartphone Controlled Infant Fingerprint Scanner winning second prize in the CITeR Fall 2023 competition. 
+- Design firmware and associate mobile application for NFC-Powered Biosensing Bandage enhancing noise-free vocal signal capture from the throat using the Silicon Labs EFR32 Wireless Gecko.  
+- Antenna Azimuth Position Control System: Achieved a 100% score in analysis and design. 
+- [Achieved a 95% training accuracy, 97% validation accuracy, and 97.53% testing accuracy](https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance) with a FER CNN model for facial expression recognition using the FER2013 dataset.  
 
 ### Embedded Engineer
 **Gokido**  
@@ -88,10 +87,12 @@ Istanbul, Turkey
 
 ## Projects and Links
 
+- [AIDrawPen (GitHub)](https://github.com/Ijnaka22len/AIDrawPen)
+- [Fast/Easy Data Collection for Magic Wang Projects Examples (GitHub)](https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects)
 - [Enhancing FER2013 Imbalance (GitHub)](https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance)
 - [VivGIT FPGA Development Workflow Integration (GitHub)](https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs)
-- [Tiny-BLE-Stat Project Documentation (Google Drive)](https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view?usp=sharing)
-- [Portfolio (Google Drive)](https://drive.google.com/drive/folders/1s5aQKqBhz028jxh1fF2LAqiUyOv8d3f6?usp=sharing)
+- [Tiny-BLE-Stat Project Documentation(GitHub)](https://github.com/Ijnaka22len)
+- [Antenna Azimuth Position Control System (Google Drive)](https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view?usp=sharing)
 
 ---
 
