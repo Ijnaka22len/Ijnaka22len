@@ -17,12 +17,12 @@
     <td align="center">
       <h3>Edge Computing -> <a href="https://github.com/Ijnaka22len/AIDrawPen"> AIDrawPen</a></h3>
       <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/video/AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="300"/>
-      <a href="https://github.com/Ijnaka22len/AIDrawPen"> <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/EdgeComputing.png" alt="AIDrawPen"   width="200"/></a><br>
+      <a href="https://github.com/Ijnaka22len/AIDrawPen"> <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/EdgeComputing.png" alt="AIDrawPen"   width="400"/></a><br>
       A medical device for kids’ rehabilitation that integrates motion tracking and feedback.
     </td>
     <td align="center">
             <h3><a href="https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects"> Fast Data Harvesting -> EFR32 ARM Cortex M</a></h3> 
-       <a href="https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects"><img src="https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects/blob/main/dataSample.png" alt="Fast/Easy Data Collection" width="200"/></a><br>
+       <a href="https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects"><img src="https://github.com/Ijnaka22len/FastDataCollection4MagicWangProjects/blob/main/dataSample.png" alt="Fast/Easy Data Collection" width="300"/></a><br>
       Accelerates data collection for AI/ML projects using modular workflows.
     </td>
   </tr>
@@ -35,19 +35,19 @@
     </td>
     <td align="center">
       <h3><a href="https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs">VivGIT FPGA Workflow</a></h3>  
-      <a href="https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs"><img src="https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs/blob/main/VivGIT.png" alt="VivGIT FPGA Workflow" width="400"/></a><br>
+      <a href="https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs"><img src="https://github.com/Ijnaka22len/Vivado-VS-Code-Integration-for-FPGAs/blob/main/VivGIT.png" alt="VivGIT FPGA Workflow" width="500"/></a><br>
       Integrated Vivado FPGA workflow with VS Code for seamless developmentand Version Control via GitLab
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/tinyBleStat.png">Tiny-BLE-Stat</a></h3>  
-      <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/tinyBleStat.png" alt="Tiny-BLE-Stat" width="200"/><br> 
+      <h3><a href="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/tinyBleStat.jpeg">Tiny-BLE-Stat</a></h3>  
+      <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/tinyBleStat.jpeg" alt="Tiny-BLE-Stat" width="400"/><br> 
       A Universal Wireless Interface for Electrochemical Sensors in Point-of-Care Testing.
     </td>
     <td align="center">
       <h3><a href="https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view">Antenna Azimuth Control</a></h3>  
-      <a href="https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view"><img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/AntennaAzimuthControl.png" alt="Antenna Azimuth Control" width="200"/></a>
+      <a href="https://drive.google.com/file/d/1FlEBxk-ENJRgvTnWDS1eOqH1T4vA2zhA/view"><img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/AntennaAzimuthControl.png" alt="Antenna Azimuth Control" width="400"/></a>
       Designed and implemented azimuth position control for precise antenna tracking.
     </td>
   </tr>
