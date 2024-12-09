@@ -16,7 +16,7 @@
   <tr>
     <td align="center">
       <h3>Edge Computing -> <a href="https://github.com/Ijnaka22len/AIDrawPen"> AIDrawPen</a></h3>
-      <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/video/AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="300"/>
+      <a href="https://github.com/Ijnaka22len/AIDrawPen"><img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/video/AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="300"/></a>
       <a href="https://github.com/Ijnaka22len/AIDrawPen"> <img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/images/EdgeComputing.png" alt="AIDrawPen"   width="400"/></a><br>
       A medical device for kids’ rehabilitation that integrates motion tracking and feedback.
     </td>
