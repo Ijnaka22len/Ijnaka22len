@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <h3><a href="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance">Enhancing FER2013 Imbalance</a></h3> 
-      <img src="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance/blob/main/figures/image-5.png" alt="Enhancing FER2013 Imbalance"  width="400"/><br>
+      <a href="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance"><img src="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance/blob/main/figures/image-5.png" alt="Enhancing FER2013 Imbalance"  width="400"/></a><br>
       <a href="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance"><img src="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance/blob/main/figures/image-9.png" alt="Enhancing FER2013 Imbalance"  height="200" width="300"/>  <img src="https://github.com/Ijnaka22len/Enhancing-FER2013-Imbalance/blob/main/figures/image-7.png" alt="Enhancing FER2013 Imbalance" width="300"/></a><br>
       Improved emotion recognition on FER2013 through balanced data techniques.
     </td>
