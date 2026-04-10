@@ -1,6 +1,6 @@
 # Leonel Akanji Akanji
 **Embedded Software Engineer**  
-📍 New York, USA    
+📍 Ottawa, Ontario   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akanjileonelakanji/)
 
 ---
